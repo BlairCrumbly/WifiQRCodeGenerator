@@ -18,3 +18,16 @@ Install the `qrcode` library (and Pillow for image handling):
 
 ```bash
 pip install qrcode[pil]
+```
+## How to use on your own
+
+1. Clone or download this script.
+
+2. Open the file and edit the following variables with your Wi-Fi details:
+
+```
+ssid = "WifiNetworkName"      # Your Wi-Fi network name
+password = "WifiPassword"     # Your Wi-Fi password
+encryption = "WPA"            # WPA/WPA2 for most networks, WEP if needed, or "nopass"
+```
+
