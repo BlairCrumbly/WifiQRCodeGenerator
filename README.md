@@ -30,4 +30,12 @@ ssid = "WifiNetworkName"      # Your Wi-Fi network name
 password = "WifiPassword"     # Your Wi-Fi password
 encryption = "WPA"            # WPA/WPA2 for most networks, WEP if needed, or "nopass"
 ```
+## How to run
+---
 
+```
+python main.py
+
+```
+
+enjoy 👾
